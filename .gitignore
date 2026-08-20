@@ -5,3 +5,7 @@ Gemfile.lock
 
 .idea/*
 
+
+# meshtools
+meshtools/venv/
+decimated/
